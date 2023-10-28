@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\projetos\\desafio_alura_cesharp_continuacao_screen_sound\\desafio_alura_cesharp_continuacao_screen_sound.csproj": {}
+    "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\projetos\\teste_git\\screen-sound\\desafio_alura_cesharp_continuacao_screen_sound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\projetos\\desafio_alura_cesharp_continuacao_screen_sound\\desafio_alura_cesharp_continuacao_screen_sound.csproj": {
+    "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\projetos\\teste_git\\screen-sound\\desafio_alura_cesharp_continuacao_screen_sound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\projetos\\desafio_alura_cesharp_continuacao_screen_sound\\desafio_alura_cesharp_continuacao_screen_sound.csproj",
+        "projectUniqueName": "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\projetos\\teste_git\\screen-sound\\desafio_alura_cesharp_continuacao_screen_sound.csproj",
         "projectName": "desafio_alura_cesharp_continuacao_screen_sound",
-        "projectPath": "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\projetos\\desafio_alura_cesharp_continuacao_screen_sound\\desafio_alura_cesharp_continuacao_screen_sound.csproj",
+        "projectPath": "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\projetos\\teste_git\\screen-sound\\desafio_alura_cesharp_continuacao_screen_sound.csproj",
         "packagesPath": "C:\\Users\\letic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\projetos\\desafio_alura_cesharp_continuacao_screen_sound\\obj\\",
+        "outputPath": "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\projetos\\teste_git\\screen-sound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\letic\\AppData\\Roaming\\NuGet\\NuGet.Config",
