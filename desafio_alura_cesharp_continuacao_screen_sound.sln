@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "desafio_alura_cesharp_continuacao_screen_sound", "desafio_alura_cesharp_continuacao_screen_sound.csproj", "{2659B29A-E165-40C3-BE44-A571D1C33DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2659B29A-E165-40C3-BE44-A571D1C33DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2659B29A-E165-40C3-BE44-A571D1C33DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2659B29A-E165-40C3-BE44-A571D1C33DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2659B29A-E165-40C3-BE44-A571D1C33DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5537A76-8D32-49C0-849A-05E8F706C92D}
+	EndGlobalSection
+EndGlobal
