@@ -1,4 +1,10 @@
-public class teste ()
+public class Teste ()
 {
-    
+
+void tese()
+{
+    //
+}    
 }
+
+
